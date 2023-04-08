@@ -63,12 +63,17 @@ Diagram and step-by-step description of the flow of our solution:
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Case Study of Worlds cleanest Country
+- Generating money through Waste Management
+- Segregating waste to recyclable and Organic
+- Segregating waste to different type
+- Predicting the crop to grown in order to reduce the waste generated through farmlands
 
 In the future we plan to...
-
+- Bottle Segregation to different materials (trained through Yolo)
+- Storing users data to database to show them a dasboard of their trackrecord
+- Promoting awareness by providing them with more options to generate money
+- Doing clustering of neighbourhoods to provide them with more waste management tips according to their clusters
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
 ![Roadmap](./images/ekyamroadmap.png)
